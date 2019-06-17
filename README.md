@@ -7,7 +7,7 @@
 
 <i>This model was based on CNN publication by PhD Krzysztof Sopyla: PyTorch CNN Tutorial CIFAR-10.</i>
 
-<i>Dataset is avalible here:</i> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+<i>Dataset is available here:</i> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 <b><i>Model description:</i></b> 
 
