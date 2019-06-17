@@ -3,9 +3,11 @@
 <img src="https://hhp-blog.s3.amazonaws.com/2016/10/iStock_44501454_MEDIUM.jpg" width="300" height="300">
 
 
-<b><i>This repository contains PyTorch classification model based on Pneumonia X-Ray image dataset.</i></b>
+<i>This repository contains PyTorch classification model based on Pneumonia X-Ray image dataset.</i>
 
-<b><i>Used dataset is avalible here:</i></b> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+<i>This model was based on CNN publication by PhD Krzysztof Sopyla: PyTorch CNN Tutorial CIFAR-10.</i>
+
+<b><i>Dataset is avalible here:</i></b> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 <b><i>Model description:</i></b> 
 
