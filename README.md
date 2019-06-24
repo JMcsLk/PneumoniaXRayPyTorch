@@ -37,4 +37,4 @@ Model was trained on 20 epochs.
 
 <img src="https://i.ibb.co/6Rd9d7v/pobrane-1.png">
 
-If there is problem to render .ipnyb file please check: https://nbviewer.jupyter.org/github/JMcsLk/PneumoniaXRayPyTorch/blob/master/PyTorch_X_Rays_Conv2D.ipynb
+If there is problem to render .ipynb file please check: https://nbviewer.jupyter.org/github/JMcsLk/PneumoniaXRayPyTorch/blob/master/PyTorch_X_Rays_Conv2D.ipynb
